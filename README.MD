@@ -2,7 +2,7 @@
 
 # PinEntryEditText for Android
 
-This repository contains `PinEntryEditText` which extends the behaviour
+Thi repository contains `PinEntryEditText` which extends the behaviour
 of `EditText` and implement features that are otherwise not available.
 
 ![PinEntryEditText](http://i.giphy.com/3o7qDVApSTFl8DCU4E.gif)
